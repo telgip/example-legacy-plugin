@@ -6,9 +6,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>org.scijava</groupId>
-		<artifactId>pom-scijava</artifactId>
-		<version>31.1.0</version>
+		<groupId>org.geertdevries</groupId>
+		<artifactId>Butterworth_</artifactId>
+		<version>0.1.0-SNAPSHOT</version>
 		<relativePath />
 	</parent>
 
@@ -16,13 +16,13 @@
 	<artifactId>Process_Pixels</artifactId> <!-- FIXME: Your project artifactId here   -->
 	<version>0.1.0-SNAPSHOT</version>
 
-	<name>Process Pixels</name>                                                   <!-- FIXME: Your project name here          -->
-	<description>A Maven project implementing an ImageJ 1.x plugin.</description> <!-- FIXME: Your project description here   -->
-	<url>https://mycompany.com/imagej/process-pixels/</url>                       <!-- FIXME: Your project website here       -->
-	<inceptionYear>2012</inceptionYear>                                           <!-- FIXME: Your project starting year here -->
+	<name>Butterworth filter</name>                                                   <!-- FIXME: Your project name here          -->
+	<description>A butterworth filter.</description> <!-- FIXME: Your project description here   -->
+	<url></url>                       <!-- FIXME: Your project website here       -->
+	<inceptionYear>2025</inceptionYear>                                           <!-- FIXME: Your project starting year here -->
 	<organization>
-		<name>My Company</name>           <!-- FIXME: Your organization name here    -->
-		<url>https://mycompany.com/</url> <!-- FIXME: Your organization website here -->
+		<name></name>           <!-- FIXME: Your organization name here    -->
+		<url></url> <!-- FIXME: Your organization website here -->
 	</organization>
 	<licenses>
 		<license>                         <!-- FIXME: Your license here -->
